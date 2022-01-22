@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Examen\Examen\bin\Debug\net6.0\Examen.exe
+C:\Users\Usuario\source\repos\Examen\Examen\bin\Debug\net6.0\Examen.deps.json
+C:\Users\Usuario\source\repos\Examen\Examen\bin\Debug\net6.0\Examen.runtimeconfig.json
+C:\Users\Usuario\source\repos\Examen\Examen\bin\Debug\net6.0\Examen.dll
+C:\Users\Usuario\source\repos\Examen\Examen\bin\Debug\net6.0\ref\Examen.dll
+C:\Users\Usuario\source\repos\Examen\Examen\bin\Debug\net6.0\Examen.pdb
+C:\Users\Usuario\source\repos\Examen\Examen\obj\Debug\net6.0\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Examen\Examen\obj\Debug\net6.0\Examen.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Examen\Examen\obj\Debug\net6.0\Examen.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Examen\Examen\obj\Debug\net6.0\Examen.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Examen\Examen\obj\Debug\net6.0\Examen.dll
+C:\Users\Usuario\source\repos\Examen\Examen\obj\Debug\net6.0\ref\Examen.dll
+C:\Users\Usuario\source\repos\Examen\Examen\obj\Debug\net6.0\Examen.pdb
+C:\Users\Usuario\source\repos\Examen\Examen\obj\Debug\net6.0\Examen.genruntimeconfig.cache
